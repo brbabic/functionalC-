@@ -1,0 +1,9 @@
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe.config
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csprojResolveAssemblyReference.cache
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.exe
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\System.ValueTuple.dll
+C:\Users\CQ_615\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\System.ValueTuple.xml
